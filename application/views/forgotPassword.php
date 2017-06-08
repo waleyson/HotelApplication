@@ -18,7 +18,7 @@
   <body class="login-page">
     <div class="login-box">
       <div class="login-logo">
-        <a href="#"><b>DigiLodge</b><br>Digital Lodging System</a>
+        <a href="#"><b>Fast Track Hotel</b><br>Fixsphere Lodging System</a>
       </div><!-- /.login-logo -->
       <div class="login-box-body">
         <p class="login-box-msg">Forgot Password</p>
