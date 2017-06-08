@@ -49,9 +49,9 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'adminAP8F3kX';
-$db['default']['password'] = '4erqwd3pGec4';
-$db['default']['database'] = 'hotelapp';
+$db['default']['username'] = 'root';
+$db['default']['password'] = '';
+$db['default']['database'] = 'lodge';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['port'] = '3306';
 $db['default']['dbprefix'] = '';
